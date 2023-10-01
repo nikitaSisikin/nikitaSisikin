@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.dribbble.com/users/2221077/screenshots/14110896/media/f6bd29562775b724409df2c851c5b49c.gif)]
 
 <h1 align="center">Hi 👋, I'm Nikita Šišikin</h1>
-<h3 align="center">An AI & Robotics graduate based in London</h3>
+<h3 align="center">An AI & Robotics graduate based in Luton</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
